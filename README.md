@@ -10,8 +10,11 @@
  _config.yml 
  _data/contact.yml.
  ps.具体修改哪些内容可在https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-chirpy-starter中查看
- 
- 4.push到github即完成配置和部署
+
+4.下载 Node.js(https://nodejs.org/en), and then run the tool:
+$ bash tools/init
+
+5.push到github即完成配置和部署
  
 注意settings->pages->branch设置
  _config.yml 中修改内容是否正确
