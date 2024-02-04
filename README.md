@@ -1,4 +1,18 @@
-# Chirpy Starter
+![image](https://github.com/ff273/ff273.github.io/assets/102291200/9d464d0d-3060-4951-827e-ce38387a9d66)# Chirpy Starter
+## 我的总结：
+1.创建仓库命名为：username.github.io
+(注意！！如果使用chirpy scheme 可以按照https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-chirpy-starter中指引直接fork仓库）
+2.在仓库username.github.io的settings中设置Pages对应的branch
+![image](https://github.com/ff273/ff273.github.io/assets/102291200/b30ce465-b1d9-4762-b3c1-8285cb233c2c)
+3.clone到本地进行个性化配置：
+ _config.yml 
+ _data/contact.yml.
+ ps.具体修改哪些内容可在https://chirpy.cotes.page/posts/getting-started/#option-1-using-the-chirpy-starter中查看
+ 4.push到github即完成配置和部署
+ 
+注意settings->pages->branch设置
+ _config.yml 中修改内容是否正确
+
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
